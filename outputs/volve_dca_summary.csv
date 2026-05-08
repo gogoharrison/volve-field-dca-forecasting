@@ -1,0 +1,8 @@
+Well,Best DCA Model,DCA R²,DCA MAPE,GBR MAPE (CV),Hist. Prod (kSm³),Fore. EUR (kSm³),EUR (MMbbl)
+F-1 C,Harmonic,0.491,133.8%,77.7%,175.4,339.2,2.133
+F-11 H,Exponential,0.066,75.9%,39.8%,1133.6,2365.8,14.88
+F-12 H,Exponential,0.711,127.2%,73.8%,4504.4,4737.7,29.799
+F-14 H,Exponential,0.829,82.8%,56.0%,3868.2,4109.3,25.846
+F-15 D,Harmonic,0.25,47.1%,28.5%,145.9,327.7,2.061
+F-5 AH,Harmonic,-0.0,nan%,nan%,38.3,618.4,3.889
+FIELD TOTAL,—,—,—,—,9865.8,12498.0,78.61
